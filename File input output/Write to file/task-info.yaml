@@ -1,0 +1,53 @@
+type: edu
+files:
+- name: output.txt
+  visible: true
+  encrypted_text: EKVjH5I+V0GVfcB1u4fUmJZL0RlncO7EDPVhoqxHp/WNBOT+Y3MTatHb40kHcfTbGobMuUyDx6ZRlO/lCPdX+g==
+  learner_created: false
+- name: write_to_file.py
+  visible: true
+  placeholders:
+  - offset: 74
+    length: 12
+    placeholder_text: add modifier
+    initial_state:
+      length: 12
+      offset: 74
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: uBwPgdmXCSa+XJi5v3PN1A==
+  - offset: 98
+    length: 87
+    placeholder_text: '# On a new line in  "output.txt", add all elements from the
+      zoo list, joined by " and "'
+    initial_state:
+      length: 87
+      offset: 98
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: OLzakA8QjOP1EWk0vEogGlWGwV+nhlha4jUWFJQv84uv12t5XCCaevGVQN+HuR3A
+  - offset: 190
+    length: 38
+    placeholder_text: '# Add the number to the output as well'
+    initial_state:
+      length: 38
+      offset: 190
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: 5cFKv2KKBLK+gKgQkdZiIRMyhPgA7wlilxddQl95UL8=
+  encrypted_text: nI/UXzN97/VDvPYndI+Jk6qLKXmoSj7NR+ZN32ZzG39tx8c1tcLvbPr/+eFZqMKOLT/Fee7BbPxqYrPM/r3ZSWJd0+G3xR4i4PAIoQ0KjakpF16ymj3ggsd2s+O4iVzY/trSHUjRtaj7QLs7/ndpGWeyj3LIeuaLI5WOIwi+3wb+rxaWLqszaYr4Nt7BmhIUKxNmBIn5iBIEBSDR8pqcLVghlESSLmCWKYnKzUnIJ2msu2UiRKIaYFZHS2+OyDoyWjahXkUYAejsccIw56KdimKJof8TOZnSE/I2BoF6pVUPIo78ZQz3Ez29L2cEJhpz
+  learner_created: false
+- name: tests/__init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: tests/test_task.py
+  visible: false
+  encrypted_text: XIlL2u+4gqNTqO7La77YdbPgcXd8ckxCW+Nevva3fTN6FHOB2DCda936XLe1bCr2sqLQz+sdp1DWzdnCL8dcwUYiZ6zsjlLHiYAJodEU3fRj11HSmXNf0fsMN+nVElN+yvWklz/0fTNZbkR+yA8N5AiDSMXtIq2opRPSyeSiFShjbL0Dm00tCNEs6Q+Qmp4k15/TlN5TX1E4e62VriyarexbRPpDfY4QFHPh78hF3K25SEjh7AfvvOV5AZq3yvTc+j7P6mtzjkTHDG7g6DWqXqnb52/0ygyVKV1a4LdqGr8FEQ5k8w4D1VXxS1g/Z/Kw/GN+XdJH5SZtrl691tJlE4mo0shhea2heoH5MOPtEgaABE8j43n2eKtmfE2TBaevUByYD+8UvYAFk0l7BIq71JO2soaQL3G/xjPkWkATmzkR+xDnhFtGp4Z+fHvFRX4g6idFou0sgdGb7H/DjS5KTb1OdWJtLGxrZOdutM4Ggzm+gfsdrf4RYmhzz0NsD/nYoij+a4n3w9uWyTaEuvKwjEzCLUYgJJpq4JHGqw0lYiHX2aKBxVfipBYSQ3n7Uh2uAHpDrYjicwx/b2gb+nQ9Pj90UyndEvI/JdvHKClCdpiq3UBydpiKBqKJ4zolrm7uJ6vQ1Oe10sVirrjUUSn/fOnUCSxcQpL7RuhrWv+i7a5XxA0Q6+t2vKhyVMo+Zj/m0SRNvpumo6XGTKc3ymcPtcZEYQ3St/R4s8i2EKXyaVPAUZW4jQSaSJvKwVDvUo0PuYh0izwQbDMgS5ryVIqHmX8ea4U26Ug8YFpmJpfn6OL89crmfveJek7yjKrUKwfZ7olN461lwnpLMqKcml+5TfLLzdk+ls0sPArEXnX6U3rx9rc00cEP5/1vyaxjCYgSwG4SgDAt1Q2860c36duYOtkNdCumGBXlznqaufbJFToKET320bmoI8zQGYIEQM+PGnq3B0bsR6cL8XzNeW5acBCD1pbhGW+qxDpNPRpUDEu6K+eeqgPRMkFsxoU8ACv+ZYXh2BLc1Xa9x6zEAiE6hw/8w1rGDyj0V4Muyd1l1fvqrmVoU+60ZcYRljynJD0Uwxa8oUTJdB+sLknQsepNqA==
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=File+Input+Output+/+Write+to+file
+status: Unchecked
+record: -1
